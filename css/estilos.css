@@ -1,0 +1,130 @@
+body {
+	background: linear-gradient(180deg, #000, #ccc, #fff, #fff, #ccc, #000);
+	height: 100vh;
+}
+
+
+
+.home {
+	background-color: transparent;
+	padding: 20px;
+}
+
+
+
+.menu {
+	position: absolute;
+	width: 932px;
+	height: 55px;
+	right: 0px;
+	top: 3px;
+	background-color: #ccc;
+
+
+}
+.tcl-menu {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 16px;
+	line-height: 20px;
+	margin: 1px;
+	letter-spacing: 10px;
+	padding-top: 15px;
+	padding-left: 50px;
+
+
+	color: #FFFFFF;
+}
+.img-casa {
+	position: absolute;
+	left: 600px;
+	top: 10px;
+}
+#pag_um {
+	background-color: transparent;
+	height: 720px;
+}
+.login {
+	background-color: black;
+	position: absolute;
+	width: 300px;
+	height: 85px;
+	right: 0px;
+	top: 400px;
+
+
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 100px;
+	line-height: 20px;
+	color: #fff;
+
+
+
+}
+
+
+
+.lgn {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 60px;
+	line-height: 20px;
+	margin: 1px;
+	letter-spacing: 10px;
+	padding-top: 30px;
+	padding-left: 50px;
+	color: #FFFFFF;
+}
+
+
+
+.nome {
+	background-color: transparent;
+	width: 700px;
+	height: 85px;
+	right: 0px;
+	top: 400px;
+	margin: 178px;
+	padding-right: 10px;
+}
+.adv {
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 80px;
+
+
+
+	letter-spacing: 0.3em;
+}
+.ajd {
+	position: absolute;
+	width: 266px;
+	height: 51px;
+	left: 1039px;
+	top: 750px;
+
+
+
+	background: #FFFFFF;
+}
+.duv {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 16px;
+	line-height: 20px;
+	margin: 1px;
+	letter-spacing: 10px;
+	padding-top: 15px;
+	padding-left: 20px;
+
+
+
+}
